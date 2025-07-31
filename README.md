@@ -20,12 +20,7 @@ The **Cortronix Connect App** is a simple Android + ESP32-based Bluetooth commun
 - Receives JSON commands via Bluetooth Serial
 - Parses and executes actions such as animations, lighting, or sounds
 
-### Example JSON:
-```json
-{
-  "command": "eye_open",
-  "intensity": 80
-}
+
 
 <img width="268" height="411" alt="Screenshot 2025-08-01 at 2 35 28 AM" src="https://github.com/user-attachments/assets/c28f9ebb-1f8d-4d26-9a8d-4604d2674898" />
 <img width="241" height="412" alt="Screenshot 2025-08-01 at 2 35 54 AM" src="https://github.com/user-attachments/assets/8161f2c8-84b5-4755-b58b-1738739220aa" />
